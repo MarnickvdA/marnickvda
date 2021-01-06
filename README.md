@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Visit my page at marnickvda.github.com
+[Visit my page](marnickvda.github.com)
